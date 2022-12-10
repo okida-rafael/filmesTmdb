@@ -10,4 +10,4 @@ Dificuldade: Intermediario
 
 Tempo estimado: 4 hora
 
-URL: 
+URL: https://filmes-series-tmdb.netlify.app
